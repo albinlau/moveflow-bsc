@@ -1,0 +1,7 @@
+{
+  "network": "vic-testnet",
+  "Subscription": {
+    "startBlock": 48005934,
+    "address": "0xF6F48D9F9220C2a30d070e5011817Cc87Ca33f87"
+  }
+}

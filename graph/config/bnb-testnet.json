@@ -1,0 +1,11 @@
+{
+  "network": "chapel",
+  "Subscription": {
+    "startBlock": 37360860,
+    "address": "0x4027c067473066FE9D9588290554c16e016f34A7"
+  },
+  "Stream": {
+    "startBlock": 37912500,
+    "address": "0xee37cdd0cfcBC6BE5db14cb92D33F6ce6d8d74fA"
+  }
+}
